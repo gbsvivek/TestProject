@@ -23,6 +23,16 @@ namespace TestProject.Controllers
             return View();
         }
 
+        public IActionResult PatternFlyIndex()
+        {
+            return View();
+        }
+
+        public IActionResult CheckList()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
